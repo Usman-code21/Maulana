@@ -34,7 +34,7 @@ int main() {
         default:
             cout << "Kelas Santri Tdak Ditemukan \n";
     }
-    cout << "Konsulat \t : " << konsulat << "\n";
+
 
     return 0;
 }
